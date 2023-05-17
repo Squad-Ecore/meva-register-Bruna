@@ -1,4 +1,3 @@
-Bruna
 # scaffold java
 
 `[INSIRA DESCRICAO DO PROJETO AQUI]`
