@@ -1,5 +1,6 @@
 # scaffold java
 
+
 `[INSIRA DESCRICAO DO PROJETO AQUI]`
 
 # Pré Requisitos
