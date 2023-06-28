@@ -1,6 +1,6 @@
 # scaffold java
 
-inserir nome
+apagar nome
 
 `[INSIRA DESCRICAO DO PROJETO AQUI]`
 
