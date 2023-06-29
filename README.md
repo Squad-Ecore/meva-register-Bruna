@@ -1,6 +1,6 @@
 # scaffold java
 
-apagar nome
+incluir CPF
 
 `[INSIRA DESCRICAO DO PROJETO AQUI]`
 
