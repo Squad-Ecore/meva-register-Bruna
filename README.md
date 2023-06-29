@@ -1,6 +1,6 @@
 # scaffold java
 
-incluir CPF
+incluir telefone
 
 `[INSIRA DESCRICAO DO PROJETO AQUI]`
 
